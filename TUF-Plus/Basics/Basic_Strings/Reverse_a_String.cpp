@@ -1,5 +1,5 @@
-// Problem: Highest Occurring Element
-// Source: TUF+ - Basic Hashing
+// Problem: Reverse a String
+// Source: TUF+ - Basic Strings
 // Status: Solved
 
 #include<bits/stdc++.h>
